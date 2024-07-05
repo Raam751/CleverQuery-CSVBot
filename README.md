@@ -1,4 +1,4 @@
-# Large PDF Chat
+# CSV Querying Bot system
  This project is the comprehensive implementation of RAG application of PDF and CSV data which have large pages.
 
 
