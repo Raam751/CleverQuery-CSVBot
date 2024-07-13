@@ -41,7 +41,7 @@ def create_database(df):
 # AI query generation
 def configure_ai():
     genai.configure(api_key=GEMINI_API_KEY)
-    return genai.GenerativeModel('gemini-pro')
+    return genai.GenerativeModel('gemini-pro') #gemini-1.5-flash
 
 def clean_sql_query(query):
     return re.sub(r'```sql|```', '', query).strip()

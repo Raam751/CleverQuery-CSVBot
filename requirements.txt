@@ -19,3 +19,5 @@ camelot-py
 langchain_groq
 pandasai
 pandasql
+google-generativeai
+plotly
