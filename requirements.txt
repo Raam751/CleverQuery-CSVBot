@@ -6,6 +6,7 @@ ctransformers
 faiss-cpu
 huggingface_hub
 langchain
+langchain-community
 openai
 pandas
 PyPDF2
