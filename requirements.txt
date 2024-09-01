@@ -22,3 +22,4 @@ pandasai
 pandasql
 google-generativeai
 plotly
+langchain-google-genai
